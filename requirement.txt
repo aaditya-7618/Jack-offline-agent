@@ -1,0 +1,5 @@
+ollama
+soundcard
+soundfile
+SpeechRecognition
+gTTS
